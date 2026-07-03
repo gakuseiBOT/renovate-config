@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchCategories": [
+        "golang"
+      ],
+      "addLabels": [
+        "renovate/go"
+      ]
+    }
+  ]
+}

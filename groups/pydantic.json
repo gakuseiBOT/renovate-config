@@ -1,0 +1,11 @@
+{
+  "packageRules": [
+    {
+      "groupName": "pydantic",
+      "matchPackageNames": [
+        "pydantic",
+        "pydantic-core"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchManagers": [
+        "github-actions"
+      ],
+      "addLabels": [
+        "renovate/github-actions"
+      ]
+    }
+  ]
+}

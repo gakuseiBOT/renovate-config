@@ -1,0 +1,13 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "patch",
+        "pin"
+      ],
+      "addLabels": [
+        "type/patch"
+      ]
+    }
+  ]
+}

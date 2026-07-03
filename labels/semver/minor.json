@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "minor"
+      ],
+      "addLabels": [
+        "type/minor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchCategories": [
+        "kubernetes"
+      ],
+      "addLabels": [
+        "renovate/kubernetes"
+      ]
+    }
+  ]
+}

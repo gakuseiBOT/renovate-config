@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchCategories": [
+        "rust"
+      ],
+      "addLabels": [
+        "renovate/rust"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "lockFileMaintenance"
+      ],
+      "addLabels": [
+        "type/lock"
+      ]
+    }
+  ]
+}

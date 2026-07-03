@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "pinDigest"
+      ],
+      "addLabels": [
+        "type/digest"
+      ]
+    }
+  ]
+}

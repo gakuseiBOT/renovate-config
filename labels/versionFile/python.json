@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "matchCategories": [
+        "python"
+      ],
+      "addLabels": [
+        "renovate/python"
+      ]
+    }
+  ]
+}
